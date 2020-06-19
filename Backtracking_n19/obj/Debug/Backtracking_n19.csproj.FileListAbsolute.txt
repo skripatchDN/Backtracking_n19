@@ -1,0 +1,10 @@
+D:\YandexDisk\YandexDisk\Documents\Labs\C#\2k2s\dujev\Backtracking_n19\Backtracking_n19\obj\Debug\Backtracking_n19.csprojAssemblyReference.cache
+D:\YandexDisk\YandexDisk\Documents\Labs\C#\2k2s\dujev\Backtracking_n19\Backtracking_n19\obj\Debug\Backtracking_n19.FormMain.resources
+D:\YandexDisk\YandexDisk\Documents\Labs\C#\2k2s\dujev\Backtracking_n19\Backtracking_n19\obj\Debug\Backtracking_n19.Properties.Resources.resources
+D:\YandexDisk\YandexDisk\Documents\Labs\C#\2k2s\dujev\Backtracking_n19\Backtracking_n19\obj\Debug\Backtracking_n19.csproj.GenerateResource.cache
+D:\YandexDisk\YandexDisk\Documents\Labs\C#\2k2s\dujev\Backtracking_n19\Backtracking_n19\obj\Debug\Backtracking_n19.csproj.CoreCompileInputs.cache
+D:\YandexDisk\YandexDisk\Documents\Labs\C#\2k2s\dujev\Backtracking_n19\Backtracking_n19\bin\Debug\Backtracking_n19.exe.config
+D:\YandexDisk\YandexDisk\Documents\Labs\C#\2k2s\dujev\Backtracking_n19\Backtracking_n19\bin\Debug\Backtracking_n19.exe
+D:\YandexDisk\YandexDisk\Documents\Labs\C#\2k2s\dujev\Backtracking_n19\Backtracking_n19\bin\Debug\Backtracking_n19.pdb
+D:\YandexDisk\YandexDisk\Documents\Labs\C#\2k2s\dujev\Backtracking_n19\Backtracking_n19\obj\Debug\Backtracking_n19.exe
+D:\YandexDisk\YandexDisk\Documents\Labs\C#\2k2s\dujev\Backtracking_n19\Backtracking_n19\obj\Debug\Backtracking_n19.pdb
